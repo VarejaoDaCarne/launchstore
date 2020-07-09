@@ -2,9 +2,9 @@
     <img src="/logo.png" height="100%" width="100%">
 </h1>
 
-<!-- <h1 align="center">
-    <img src="/github/gym-manager.gif" height="50%">
-</h1> -->
+<h1 align="center">
+    <img src="/assets/principal-gif.gif" height="50%">
+</h1>
 
 <h1>
     <img src="/assets/home.png"  width="33%" height"100%">
