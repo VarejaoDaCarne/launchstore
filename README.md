@@ -14,6 +14,15 @@
     <img src="/github/gym-manager.gif" height="50%">
 </h1> -->
 
+<p>
+    <img src="/assets/cart.png"  width="49%" height"100%">
+    <img src="/assets/filter.png"  width="49%" height"100%">
+</p>
+
+<p>
+    <img src="/assets/my-orders.png" width="49%" height"100%">
+    <img src="/assets/register-user.png" width="49%" height"100%">
+</p>
 
 ## :bookmark: Sobre
 
