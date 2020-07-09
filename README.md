@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="#about-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#starting-como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
 </p>
