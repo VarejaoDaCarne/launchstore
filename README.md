@@ -5,7 +5,7 @@
 
 <p align="center">
   [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
 </p>
 
@@ -14,12 +14,12 @@
 </h1> -->
 
 
-### 🔖 Sobre
+##  🔖 Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
 
-## :rocekt: Tecnologias utilizadas
+## :rocket: Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
