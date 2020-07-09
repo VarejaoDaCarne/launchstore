@@ -64,7 +64,7 @@ database: "database-name"
 5. Rodar as query do arquivo database.sql no PostgreSQL:
 `database.sql`
 
-- Iniciar o projeto
+6. Iniciar o projeto:
 `npm start`
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
