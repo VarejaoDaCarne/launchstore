@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#techs-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#starting-como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
+  <a href="tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
 </p>
 
 <!-- <h1 align="center">
@@ -36,7 +36,7 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
     > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
 
-## :starting: 🗂 Como baixar e iniciar o projeto
+##  🗂 Como baixar e iniciar o projeto
 
 - Clonar o repositório
 ```bash
