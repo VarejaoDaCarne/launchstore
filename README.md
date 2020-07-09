@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 Outras bibliotecas usadas no desenvolvimento do projeto.
 
-    > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
+<blockquote align="center">“Bcryptjs, faker, method-override, browser-sync, npm-run-alll”</blockquote>
 
 ## :open_file_folder: Iniciando
 
