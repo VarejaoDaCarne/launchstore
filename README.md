@@ -3,22 +3,23 @@
     <h3 align="center">LaunchStore</h3>
 </p>
 
+<p align="center">
+  <a href="#about-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#starting-como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
+</p>
+
 <!-- <h1 align="center">
     <img src="/github/gym-manager.gif" height="50%">
 </h1> -->
 
-## Index
 
-* [Sobre](Sobre)
-* [Tecnologias utilizadas](Tecnologias utilizadas)
-* [Como baixar e iniciar o projeto](Como baixar e iniciar o projeto)
-
-## 🔖 Sobre
+## 🔖 :about: Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
 
-## 🚀 Tecnologias utilizadas
+## 🚀 :techs: Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -35,7 +36,7 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
     > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
 
-## 🗂 Como baixar e iniciar o projeto
+## 🗂 :starting: Como baixar e iniciar o projeto
 
 - Clonar o repositório
 ```bash
