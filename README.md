@@ -1,6 +1,6 @@
 <p align="center">
     <img src="/assets/logo.png" alt="Logo">
-    <h3>LaunchStore</h3>
+    <h3 align="center">LaunchStore</h3>
 </p>
 
 <!-- <h1 align="center">
