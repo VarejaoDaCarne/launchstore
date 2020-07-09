@@ -14,7 +14,7 @@
 </h1> -->
 
 
-## 🔖 Sobre
+### 🔖 Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
