@@ -56,13 +56,9 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 4. Configurar o PostgreSQL:
 ```
 user: "user-name",
-
 password: "",
-
 host:"localhost",
-
 port: 5432,
-
 database: "database-name"
 ```
 
