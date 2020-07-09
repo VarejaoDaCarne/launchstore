@@ -7,15 +7,15 @@
 </h1> -->
 
 <h1>
-    <img src="/assets/home.png"  width="33%" height"100%">
-    <img src="/assets/filter.png"  width="33%" height"100%">
-    <img src="/assets/login.png"  width="33%" height"100%">
+    <img src="/assets/home.png"  width="32%">
+    <img src="/assets/filter.png"  width="32%">
+    <img src="/assets/login.png"  width="32%">
 </h1>
 
 <h1>
-    <img src="/assets/empty-cart.png" width="33%" height"100%">
-    <img src="/assets/register-user.png" width="33%" height"100%">
-    <img src="/assets/password-sent-email.png" width="33%" height"100%">
+    <img src="/assets/empty-cart.png" width="32%">
+    <img src="/assets/register-user.png" width="32%">
+    <img src="/assets/password-sent-email.png" width="32%">
 </h1>
 
 <h3 align="center">
@@ -46,22 +46,22 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
 ## 🗂 Como baixar e iniciar o projeto
 
-1. Clonar o repositório
+# - Clonar o repositório
 ```bash
 git clone https://github.com/grioos/launchstore
 ```
 
-2. Entrar no diretório
+# - Entrar no diretório
 ```bash
 cd launchstore
 ```
 
-3. Instalar as dependências
+# - Instalar as dependências
 ```bash
 npm install
 ```
 
-4. Configure o PostgreSQL
+# - Configure o PostgreSQL
 ```bash
 user: "user-name",
 password: "",
@@ -69,12 +69,12 @@ host:"localhost",
 port: 5432,
 database: "database-name"
 ```
-5. Rode as query do arquivo database.sql no PostgreSQL
+# - Rode as query do arquivo database.sql no PostgreSQL
 ```bash
 database.sql
 ```
 
-6. Iniciar o projeto
+# - Iniciar o projeto
 ```bash
 npm start
 ```
