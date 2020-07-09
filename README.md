@@ -1,10 +1,7 @@
-<h1 align="center">
-    <img src="/assets/logo.png">
-</h1>
-
-<h3 align="center">
-    <a href="https://rocketseat.com.br/launchbase">Bootcamp LaunchBase</a>
-<h3 >
+<p align="center">
+    <img src="/assets/logo.png" alt="Logo" width="200" height="100">
+    <h3>LaunchStore</h3>
+</p>
 
 <!-- <h1 align="center">
     <img src="/github/gym-manager.gif" height="50%">
@@ -12,9 +9,9 @@
 
 ## Index
 
-* [Sobre](#Sobre)
-* [Tecnologias utilizadas](#Tecnologias utilizadas)
-* [Como baixar e iniciar o projeto](#Como baixar e iniciar o projeto)
+* [Sobre](Sobre)
+* [Tecnologias utilizadas](Tecnologias utilizadas)
+* [Como baixar e iniciar o projeto](Como baixar e iniciar o projeto)
 
 ## 🔖 Sobre
 
@@ -73,7 +70,5 @@ database.sql
 ```bash
 npm start
 ```
-
----
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
