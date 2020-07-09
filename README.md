@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#marcador_de_página-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="como-baixar-e-iniciar-o-projeto">Como baixar e iniciar o projeto</a>
 </p>
@@ -14,7 +14,7 @@
 </h1> -->
 
 
-##  🔖 Sobre
+##  :marcador_de_página: Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
