@@ -5,45 +5,60 @@
 
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-screens">Screens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-screens">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-iniciando">Como baixar e iniciar o projeto</a>
+  <a href="#open_file_folder-iniciando">Iniciando</a>
 </p>
 
 <!-- <h1 align="center">
     <img src="/github/gym-manager.gif" height="50%">
 </h1> -->
 
-<p>
-    <img src="/assets/cart.png"  width="49%" height"100%">
-    <img src="/assets/filter.png"  width="49%" height"100%">
-</p>
-
-<p>
-    <img src="/assets/my-orders.png" width="49%" height"100%">
-    <img src="/assets/register-user.png" width="49%" height"100%">
-</p>
-
 ## :bookmark: Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
-## :computer: Screens
+## :computer: Telas
 
-**Página de Login**
-![Imagem da Página de Login](/assets/login.png)
+<p>
+    <img src="/assets/cart.png" width="49%">
+    <img src="/assets/edit-product.png" width="49%">
+</p>
 
-**Página Inicial**
-![Imagem da Página de Inicial](/assets/home.png)
+<p>
+    <img src="/assets/edit-user.png" width="49%">
+    <img src="/assets/empty-cart.png" width="49%">
+</p>
 
-**Ver Produto**
-![Imagem da Página de Ver Produto](/assets/show-product.png)
+<p>
+    <img src="/assets/filter.png" width="49%">
+    <img src="/assets/home.png" width="49%">
+</p>
 
-**Editar Produto**
-![Imagem da Página de Editar Produto](/assets/edit-product.png)
+<p>
+    <img src="/assets/login.png" width="49%">
+    <img src="/assets/modal-product.png" width="49%">
+</p>
 
-**Editar Usuário**
-![Imagem da Página de Editar Usuário](/assets/edit-user.png)
+<p>
+    <img src="/assets/my-orders.png" width="49%">
+    <img src="/assets/my-products.png" width="49%">
+</p>
+
+<p>
+    <img src="/assets/my-sellings.png" width="49%">
+    <img src="/assets/new-buy-email.png" width="49%">
+</p>
+
+<p>
+    <img src="/assets/new-password.png" width="49%">
+    <img src="/assets/password-sent-email.png" width="49%">
+</p>
+
+<p>
+    <img src="/assets/register-product.png" width="49%">
+    <img src="/assets/register-user.png" width="49%">
+</p>
 
 ## :rocket: Tecnologias
 
