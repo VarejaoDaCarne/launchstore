@@ -10,12 +10,8 @@
   <a href="#open_file_folder-iniciando">Iniciando</a>
 </p>
 
-<h1 align="center">
-    <img src="/assets/principal-gif.gif" height="50%">
-</h1>
-
 <p align="center">
-    <img src="/assets/home.png">
+    <img src="/assets/principal-gif.gif">
 </p>
 
 ## :bookmark: Sobre
