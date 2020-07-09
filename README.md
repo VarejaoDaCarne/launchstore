@@ -1,33 +1,31 @@
-<h1 align="center">
-    <img src="/logo.png" height="100%" width="100%">
-</h1>
+<p align="center">
+    <img src="/assets/logo.png" alt="Logo">
+    <h3 align="center">LaunchStore</h3>
+</p>
+
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-demostração">Demostração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#open_file_folder-iniciando">Iniciando</a>
+</p>
 
 <h1 align="center">
     <img src="/assets/principal-gif.gif" height="50%">
 </h1>
 
-<h1>
-    <img src="/assets/home.png"  width="33%" height"100%">
-    <img src="/assets/filter.png"  width="33%" height"100%">
-    <img src="/assets/login.png"  width="33%" height"100%">
-</h1>
+<p align="center">
+    <img src="/assets/home.png">
+</p>
 
-<h1>
-    <img src="/assets/empty-cart.png" width="33%" height"100%">
-    <img src="/assets/register-user.png" width="33%" height"100%">
-    <img src="/assets/password-sent-email.png" width="33%" height"100%">
-</h1>
-
-<h3 align="center">
-    <a href="https://rocketseat.com.br/launchbase">Bootcamp LaunchBase</a>
-<h3 >
-
-## 🔖 Sobre
+## :bookmark: Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
+## :computer: Demostração
 
-## 🚀 Tecnologias utilizadas
+
+## :rocket: Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -42,36 +40,32 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 Outras bibliotecas usadas no desenvolvimento do projeto.
 
-    > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
+<blockquote>bcryptjs, faker, method-override, browser-sync, npm-run-alll</blockquote>
 
-## 🗂 Como baixar e iniciar o projeto
+## :open_file_folder: Iniciando
 
-```bash
+1. Clonar o repositório:
+`git clone https://github.com/grioos/launchstore`
 
-    # Clonar o repositório
-    $ git clone https://github.com/grioos/launchstore
+2. Entrar no diretório:
+`cd launchstore`
 
-    # Entrar no diretório
-    $ cd launchstore
+3. Instalar as dependências:
+`npm install`
 
-    # Instale as dependências
-    $ npm install
-    
-    # Configure o PostgreSQL
-    $ ```
-        user: "user-name",
-        password: "",
-        host:"localhost",
-        port: 5432,
-        database: "database-name"
-                                                            ```
-
-    # Rode as query do arquivo database.sql no PostgreSQL
-    $ database.sql
-
-    # Iniciar o projeto
-    $ npm start
-
+4. Configurar o PostgreSQL:
 ```
+user: "user-name",
+password: "",
+host:"localhost",
+port: 5432,
+database: "database-name"
+```
+
+5. Rodar as query do arquivo database.sql no PostgreSQL:
+`database.sql`
+
+6. Iniciar o projeto:
+`npm start`
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
