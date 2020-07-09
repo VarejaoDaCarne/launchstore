@@ -63,4 +63,9 @@ database: "database-name"
 6. Iniciar o projeto:
 `npm start`
 
+7. Popular o bd com novos produtos e usuários (opcional):
+`node seed.js`
+
+##
+
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
