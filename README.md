@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="/assets/logo.png" height="100%" width="100%">
+    <img src="/assets/logo.png">
 </h1>
 
 <!-- <h1 align="center">
@@ -46,30 +46,37 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
 ## 🗂 Como baixar e iniciar o projeto
 
+1. Clonar o repositório
 ```bash
+git clone https://github.com/grioos/launchstore
+```
 
-    # Clonar o repositório
-    $ git clone https://github.com/grioos/launchstore
+2. Entrar no diretório
+```bash
+cd launchstore
+```
 
-    # Entrar no diretório
-    $ cd launchstore
+3. Instalar as dependências
+```bash
+npm install
+```
 
-    # Instale as dependências
-    $ npm install
-    
-    # Configure o PostgreSQL
-    $ user: "user-name",
-      password: "",
-      host:"localhost",
-      port: 5432,
-      database: "database-name"
+4. Configure o PostgreSQL
+```bash
+user: "user-name",
+password: "",
+host:"localhost",
+port: 5432,
+database: "database-name"
+```
+5. Rode as query do arquivo database.sql no PostgreSQL
+```bash
+database.sql
+```
 
-    # Rode as query do arquivo database.sql no PostgreSQL
-    $ database.sql
-
-    # Iniciar o projeto
-    $ npm start
-
+6. Iniciar o projeto
+```bash
+npm start
 ```
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
