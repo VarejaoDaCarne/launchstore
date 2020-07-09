@@ -44,16 +44,16 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
 ## :open_file_folder: Iniciando
 
-- Clonar o repositório
+1. Clonar o repositório:
 `git clone https://github.com/grioos/launchstore`
 
-- Entrar no diretório
+2. Entrar no diretório:
 `cd launchstore`
 
-- Instalar as dependências
+3. Instalar as dependências:
 `npm install`
 
-- Configurar o PostgreSQL
+4. Configurar o PostgreSQL:
 `user: "user-name",
 password: "",
 host:"localhost",
@@ -61,7 +61,7 @@ port: 5432,
 database: "database-name"
 `
 
-- Rodar as query do arquivo database.sql no PostgreSQL
+5. Rodar as query do arquivo database.sql no PostgreSQL:
 `database.sql`
 
 - Iniciar o projeto
