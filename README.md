@@ -54,12 +54,13 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 `npm install`
 
 4. Configurar o PostgreSQL:
-`user: "user-name",
+```bash
+user: "user-name",
 password: "",
 host:"localhost",
 port: 5432,
 database: "database-name"
-`
+```
 
 5. Rodar as query do arquivo database.sql no PostgreSQL:
 `database.sql`
