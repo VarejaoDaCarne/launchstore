@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/assets/logo.png" alt="Logo" width="200" height="100">
+    <img src="/assets/logo.png" alt="Logo">
     <h3>LaunchStore</h3>
 </p>
 
