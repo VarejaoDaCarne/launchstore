@@ -39,37 +39,26 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 ## :open_file_folder: Iniciando
 
 - Clonar o repositório
-```bash
-git clone https://github.com/grioos/launchstore
-```
+`git clone https://github.com/grioos/launchstore`
 
 - Entrar no diretório
-```bash
-cd launchstore
-```
+`cd launchstore`
 
 - Instalar as dependências
-```bash
-npm install
-```
+`npm install`
 
-- Configure o PostgreSQL
-```bash
-user: "user-name",
+- Configurar o PostgreSQL
+`user: "user-name",
 password: "",
 host:"localhost",
 port: 5432,
 database: "database-name"
-```
+`
 
-- Rode as query do arquivo database.sql no PostgreSQL
-```bash
-database.sql
-```
+- Rodar as query do arquivo database.sql no PostgreSQL
+`database.sql`
 
 - Iniciar o projeto
-```bash
-npm start
-```
+`npm start`
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
