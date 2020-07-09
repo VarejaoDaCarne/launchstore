@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="/logo.png" height="100%" width="100%">
+    <img src="/assets/logo.png" height="100%" width="100%">
 </h1>
 
 <!-- <h1 align="center">
@@ -58,13 +58,11 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
     $ npm install
     
     # Configure o PostgreSQL
-    $ ```
-        user: "user-name",
-        password: "",
-        host:"localhost",
-        port: 5432,
-        database: "database-name"
-                                                            ```
+    $ user: "user-name",
+      password: "",
+      host:"localhost",
+      port: 5432,
+      database: "database-name"
 
     # Rode as query do arquivo database.sql no PostgreSQL
     $ database.sql
