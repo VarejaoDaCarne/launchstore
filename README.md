@@ -2,25 +2,19 @@
     <img src="/assets/logo.png">
 </h1>
 
+<h3 align="center">
+    <a href="https://rocketseat.com.br/launchbase">Bootcamp LaunchBase</a>
+<h3 >
+
 <!-- <h1 align="center">
     <img src="/github/gym-manager.gif" height="50%">
 </h1> -->
 
-<h1>
-    <img src="/assets/home.png"  width="32%">
-    <img src="/assets/filter.png"  width="32%">
-    <img src="/assets/login.png"  width="32%">
-</h1>
+## Index
 
-<h1>
-    <img src="/assets/empty-cart.png" width="32%">
-    <img src="/assets/register-user.png" width="32%">
-    <img src="/assets/password-sent-email.png" width="32%">
-</h1>
-
-<h3 align="center">
-    <a href="https://rocketseat.com.br/launchbase">Bootcamp LaunchBase</a>
-<h3 >
+* [Sobre](#Sobre)
+* [Tecnologias utilizadas](#Tecnologias utilizadas)
+* [Como baixar e iniciar o projeto](#Como baixar e iniciar o projeto)
 
 ## 🔖 Sobre
 
@@ -46,22 +40,22 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
 ## 🗂 Como baixar e iniciar o projeto
 
-# - Clonar o repositório
+- Clonar o repositório
 ```bash
 git clone https://github.com/grioos/launchstore
 ```
 
-# - Entrar no diretório
+- Entrar no diretório
 ```bash
 cd launchstore
 ```
 
-# - Instalar as dependências
+- Instalar as dependências
 ```bash
 npm install
 ```
 
-# - Configure o PostgreSQL
+- Configure o PostgreSQL
 ```bash
 user: "user-name",
 password: "",
@@ -69,14 +63,17 @@ host:"localhost",
 port: 5432,
 database: "database-name"
 ```
-# - Rode as query do arquivo database.sql no PostgreSQL
+
+- Rode as query do arquivo database.sql no PostgreSQL
 ```bash
 database.sql
 ```
 
-# - Iniciar o projeto
+- Iniciar o projeto
 ```bash
 npm start
 ```
+
+---
 
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
