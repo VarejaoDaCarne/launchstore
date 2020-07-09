@@ -66,4 +66,6 @@ database: "database-name"
 7. Popular o bd com novos produtos e usuários (opcional):
 `node seed.js`
 
+##
+
 Desenvolvido por [Gabriel Rios](https://www.linkedin.com/in/grioos/)
