@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="/assets/principal-gif.gif" height="100%" width="100%">
+    <img src="/assets/principal-gif.gif">
 </p>
 
 ## :bookmark: Sobre
