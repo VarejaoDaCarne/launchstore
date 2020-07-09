@@ -18,7 +18,7 @@
 </h1>
 
 <h1>
-    <img src="/asssets/cart.png" width="49%" height"100%">
+    <img src="/assets/cart.png" width="49%" height"100%">
     <img src="/assets/success.png" width="49%" height"100%">
 </h1>
 
