@@ -14,12 +14,12 @@
 </h1> -->
 
 
-## 🔖 :about: Sobre
+## :about: 🔖 Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
 
-## 🚀 :techs: Tecnologias utilizadas
+## :techs: 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -36,7 +36,7 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
     > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
 
-## 🗂 :starting: Como baixar e iniciar o projeto
+## :starting: 🗂 Como baixar e iniciar o projeto
 
 - Clonar o repositório
 ```bash
