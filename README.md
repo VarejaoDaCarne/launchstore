@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#folder-iniciando">Como baixar e iniciar o projeto</a>
+  <a href="#open_file_folder-Como baixar e iniciar o projet">Como baixar e iniciar o projeto</a>
 </p>
 
 <!-- <h1 align="center">
@@ -36,7 +36,7 @@ Outras bibliotecas usadas no desenvolvimento do projeto.
 
     > Bcryptjs, faker, method-override, browser-sync, npm-run-alll
 
-##  :folder: Iniciando
+## :open_file_folder: Iniciando
 
 - Clonar o repositório
 ```bash
