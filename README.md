@@ -19,7 +19,7 @@
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
 
 
-## :roocekt: Tecnologias utilizadas
+## :rocekt: Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
