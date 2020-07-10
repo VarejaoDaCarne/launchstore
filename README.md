@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-demostração">Demostração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#open_file_folder-iniciando">Iniciando</a>
 </p>
@@ -13,12 +12,19 @@
     <img src="/assets/principal-gif.gif">
 </p>
 
+<h1>
+    <img src="/assets/login.png"  width="49%" height"100%">
+    <img src="/assets/home.png"  width="49%" height"100%">
+</h1>
+
+<h1>
+    <img src="/assets/cart.png" width="49%" height"100%">
+    <img src="/assets/success.png" width="49%" height"100%">
+</h1>
+
 ## :bookmark: Sobre
 
 O projeto **LaunchStore** é um marketplace, servindo de intermediário entre cliente e vendedor, como Mercado Livre, Amazon, etc. Projeto criado no **Bootcamp LaunchBase**.
-
-## :computer: Demostração
-
 
 ## :rocket: Tecnologias
 
@@ -57,7 +63,7 @@ port: 5432,
 database: "database-name"
 ```
 
-5. Rodar as query do arquivo database.sql no PostgreSQL:
+5. Rodar as queries do arquivo database.sql no PostgreSQL:
 `database.sql`
 
 6. Iniciar o projeto:
