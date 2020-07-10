@@ -8,9 +8,7 @@
   <a href="#open_file_folder-iniciando">Iniciando</a>
 </p>
 
-<p align="center">
-    <img src="/assets/demo.gif" width="50%" height"50%">
-</p>
+
 
 <h1>
     <img src="/assets/login.png"  width="49%" height"100%">
