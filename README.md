@@ -63,7 +63,7 @@ port: 5432,
 database: "database-name"
 ```
 
-5. Rodar as query do arquivo database.sql no PostgreSQL:
+5. Rodar as queries do arquivo database.sql no PostgreSQL:
 `database.sql`
 
 6. Iniciar o projeto:
