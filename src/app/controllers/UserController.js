@@ -70,6 +70,7 @@ module.exports = {
         }catch(err) {
             console.error(err)
             return res.render("user/index", {
+                user: req.body,
                 error: "Something went wrong!"
             })
         }

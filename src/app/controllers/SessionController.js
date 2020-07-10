@@ -37,11 +37,11 @@ module.exports = {
                 to: user.email,
                 from: 'no-reply@launchstore.com.br',
                 subject: 'Password recover',
-                html: `<h2>Lost your key?</h2>
-                <p>Don't worry, click in the link bellow to recover your password</p>
+                html: `<h2>Esqueceu a sua senha?</h2>
+                <p>Não se preocupe, clique no link abaixopara recuperar sua senha</p>
                 <p>
                     <a href="http://localhost:3000/users/password-reset?token=${token}" target="_blank">
-                        PASSWORD RECOVER
+                       RECUPERAR SENHA
                     </a>
                 </p>
                 `,
