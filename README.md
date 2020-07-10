@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/assets/logo.png" alt="Logo" height="100%" width="100%">
+    <img src="/assets/logo.png" alt="Logo">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="/assets/principal-gif.gif">
+    <img src="/assets/principal-gif.gif" height="100%" width="100%">
 </p>
 
 <h1>
