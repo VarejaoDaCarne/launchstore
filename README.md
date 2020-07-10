@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="/assets/principal-gif.gif">
+    <img src="/assets/demo.gif">
 </p>
 
 <h1>
